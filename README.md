@@ -4,3 +4,5 @@ Generate multiplication tables. A C command line application that generates mult
 # Contribution
 All contributions are welcome.
 Please follow standard coding conventions.
+
+Now accepting contributions in all other programming languages.
